@@ -10,7 +10,6 @@ represents an instant of a human performing an activity. Each file contain 6 tim
 from activities of the same person, which are called avg rss12, var rss12, avg rss13, var rss13,
 vg rss23, and ar rss23. There are 88 instances in the dataset, each of which contains
 6 time series and each time series has 480 consecutive values. <br/>
-
 The datasets 1 and 2 in folders bending1 and bending 2, as well as datasets 1, dataset 2, and dataset 3
 in other folders are considered as testing data and other datasets are considered as training data.
 
